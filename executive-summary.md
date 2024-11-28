@@ -146,8 +146,3 @@ slideOptions:
 
 ---
 
-
-## ***Avez-vous des questions ?***
-
-___
-
